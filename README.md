@@ -54,6 +54,8 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## Contributors  
 
-- **Parminder Singh**: Led the model training process and efficiently managed API handling to ensure seamless communication between components.  
-- **Lovepreet**: Responsible for model testing, designing and developing the frontend, implementing backend functionalities, and integrating APIs.  
-- **Shakti Maan**: Conducted in-depth research, providing valuable insights and foundational knowledge to support the project development.  
+| Name            | GitHub Profile                                | Role |
+|----------------|---------------------------------------------|------|
+| Parminder Singh | [@ParminderGitHub](https://github.com/parmindersingh122) | Model Training, API Handling |
+| Lovepreet      | [@LovepreetGitHub](https://github.com/itzlovi/) | Model Testing, Frontend & Backend Development, API Integration |
+| Shakti Maan    | [@ShaktiGitHub](https://github.com/ShaktiGitHub) | Research & Analysis |
